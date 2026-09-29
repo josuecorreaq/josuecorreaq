@@ -1,5 +1,7 @@
 <div align="center">
 
+<sub><strong>ES</strong> &nbsp;·&nbsp; <a href="https://github.com/josuecorreaq/josuecorreaq/blob/main/README.en.md">EN</a></sub>
+
 <h1><code>{jc}</code></h1>
 
 <h3>Josué Correa</h3>
