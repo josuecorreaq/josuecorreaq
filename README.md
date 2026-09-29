@@ -55,8 +55,6 @@ Ingeniero de Sistemas con experiencia construyendo soluciones financieras con La
 ### Contribuciones
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=josuecorreaq&bg_color=09090b&color=a1a1aa&line=fafafa&point=fafafa&area=true&area_color=27272a&hide_border=true&custom_title=Contribuciones%20del%20último%20mes" alt="Gráfico de contribuciones"/>
-<br/><br/>
 <img src="https://streak-stats.demolab.com/?user=josuecorreaq&locale=es&hide_border=true&background=09090b&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=71717a&stroke=27272a" alt="Racha de contribuciones"/>
 </div>
 
